@@ -13,3 +13,8 @@ For the time being I attempted two of them and had a hard time getting anywhere 
 This has encouraged me even more to try and find a proper beginner's guide / course.
 
 This repository should be split into various sections for each of my attempts at finding the right material.
+
+
+## Courses
+- [Springboard cybersecurity foundations](https://www.springboard.com/learning-paths/cybersecurity-foundations/learn/)
+- [Alison diploma in cyber security](https://alison.com/course/diploma-in-cyber-security)
