@@ -1,6 +1,7 @@
 # SpringBoard Course
 
 This section will be dedicated to documenting my progress for [this course](https://www.springboard.com/learning-paths/cybersecurity-foundations/learn/) from `springboard.com`.
+The reason I started this course is because I was reading [this article](https://www.springboard.com/blog/cybersecurity/how-to-learn-cybersecurity/) about how to actually progress when looking for a job in cybersecurity.
 
 ## Jobs
 From the start, the course keeps recommending we compare different cyber security jobs and choose the ones that appeal the most.
