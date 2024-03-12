@@ -22,3 +22,21 @@ These are a few examples of the ones I think could be useful to me:
 - **CompTIA Security+**: General cybersecurity certification that tests that you have "the baseline skills necessary to perform core security functions and pursue an IT security career".
 - **GIAC Security Essentials (GSEC)**: Also a general certification, this one seems to have more hands on parts to test for practical skills. GIAC also have lots of other certifications.
 - **ISACA Cybersecurity Fundamentals**: A certification supposedly very good for students and recent graduates to show that you have demonstrated you're understanding of the basic principles.
+
+## Threats
+Obviously there are many different types of attack and other cybersecurity threats out there. This is one of the reasons why there are so many different jobs one can choose in cybersecurity.
+
+Here are a few of the main threats currently.
+
+### Phishing
+This is probably the most well known one especially outside of the computer science community.
+
+Phishing is the act of tricking people into clicking on or downloading malicious messages/software.
+The goals of phishing vary depending on the type of attack.
+
+There are also different types of phishing including:
+- Spear-phishing: phising that is tailored to a specific demographic or company
+- Whaling: targets top-level executive
+- Smishing: just like phishing but through SMS
+- Search engine phishing: pushes fake results to the top of search engines using SEO (search engine optimization)
+- Vishing: attacks through phone calls to obtain information
