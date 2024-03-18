@@ -40,3 +40,5 @@ There are also different types of phishing including:
 - Smishing: just like phishing but through SMS
 - Search engine phishing: pushes fake results to the top of search engines using SEO (search engine optimization)
 - Vishing: attacks through phone calls to obtain information
+
+### Ransomware

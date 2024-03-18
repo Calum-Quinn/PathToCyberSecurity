@@ -18,6 +18,7 @@ This repository should be split into various sections for each of my attempts at
 ## Courses
 - [Springboard cybersecurity foundations](https://www.springboard.com/learning-paths/cybersecurity-foundations/learn/)
 - [Alison diploma in cyber security](https://alison.com/course/diploma-in-cyber-security)
+- [O'Reilly courses](https://learning.oreilly.com/home/)
 
 ## Challenges
 - [Root-Me](https://www.root-me.org/?lang=en)
