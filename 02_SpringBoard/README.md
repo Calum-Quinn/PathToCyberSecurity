@@ -53,3 +53,32 @@ There are pretty much only three options when it comes to dealing with this type
 - Pay the ransom and hope to get the access back
 - Somehow remove the malware
 - Wipe all the data to avoid the attacker getting a hold of it, then try and restore from backups
+
+### Malware
+Malware is a quite vague term that describes many different types of attack. It mostly describes the way in which the attack is perpetrated.
+
+Malware is software who's goal is to cause problems or aquire data most of the time.
+This includes many types of programs such as adware, spyware, viruses, worms, ransomware, trojans,...
+
+These types of attacks rely on the fact that end users are often not properly trained in detecting these programs and that in general people trust uncertain systems.
+The most often these attacks get access to a larger system because a user opened an unsafe document or clicked on dubious links.
+
+### Data Breach
+A data breach is also farely vague as it simply means that information from a closed system was accessed from the exterior.
+
+This is often what happens with badly protected systems and it is normally to gain money that these attacks happen.
+
+The major problem linked to these types of attacks is the loss of image of the company that suffered the breach. They then need to spend lots on fixing the original problem but also to protect their image.
+
+### Distributed Denial of Service
+A DDoS attack involves an attacker sending very large amounts of traffic to a system to paralize it, it is a DDoS instead of a DoS attack when the traffic comes from lots of different places and not a single IP.
+
+These attacks render the system incapable of fulfilling it's normal tasks as it has two many other requests coming in.
+This leads to unusually high amounts of downtime for the system and therfore causes severe monetary losses for the company.
+
+### Man in the Middle attack
+MitM attacks involve intercepting network traffic and potentially harmfully modifying it.
+
+This is often achieved by pretending to be a normal part of the network for example a router in order to spy on conversations or modify requests.
+
+This particularly problematic with the increase in home office working as this new type of communication needs to be incrypted to insure nothing can intercept and modify the data.
