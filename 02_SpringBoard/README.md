@@ -35,11 +35,11 @@ Phishing is the act of tricking people into clicking on or downloading malicious
 The goals of phishing vary depending on the type of attack.
 
 There are also different types of phishing including:
-- Spear-phishing: phising that is tailored to a specific demographic or company
-- Whaling: targets top-level executive
-- Smishing: just like phishing but through SMS
-- Search engine phishing: pushes fake results to the top of search engines using SEO (search engine optimization)
-- Vishing: attacks through phone calls to obtain information
+- **Spear-phishing**: phising that is tailored to a specific demographic or company
+- **Whaling**: targets top-level executive
+- **Smishing**: just like phishing but through SMS
+- **Search engine phishing**: pushes fake results to the top of search engines using SEO (search engine optimization)
+- **Vishing**: attacks through phone calls to obtain information
 
 ### Ransomware
 This threat is one of the most effective ones when it comes to paralizing the victim.
@@ -109,11 +109,11 @@ There are various different types of actors and they have their own goals and or
 The majority of the actors are motivated by monetary gain.
 
 Other more specific threat actors include:
-- Cyber terrorists: their goal is usually to harm a country's infrastructure
-- Advanced persistent threat actors: mostly working with or for their government
-- Hacktivists: generally don't do it for money but for more political reasons
-- Insiders: internal actors who can do direct damage without having to breach the system
-- Script kiddies: non professional actors who do not have the necessary knowledge/skills to carry out a full scale attack
+- **Cyber terrorists**: their goal is usually to harm a country's infrastructure
+- **Advanced persistent threat actors**: mostly working with or for their government
+- **Hacktivists**: generally don't do it for money but for more political reasons
+- **Insiders**: internal actors who can do direct damage without having to breach the system
+- **Script kiddies**: non professional actors who do not have the necessary knowledge/skills to carry out a full scale attack
 
 ### Counter measures
 There are multiple proactive steps that companies can take to protect themselves from different data breaches.
@@ -122,3 +122,27 @@ Here are a few of them:
 - MFA (Multi Factor Authentication)
 - Network monitoring
 - Intrusion detection/prevention: automated tools that contain potential threats
+
+## Security technologies and techniques
+In this section we see the different ways in which we can protect against attacks.
+
+### Defense in depth
+```
+"Defense in depth is a security strategy in which multiple security tools, mechanisms, and policies are deployed in tandem on the assumption that if one fails, another will hold."
+```
+
+Systems that comply with defense in depth build every part of the system assuming the security will fail and therefore have multiple layers of protection.
+
+This strategy does not only imply multiple layers of security but also an entire mindset of how to deal with attacks.
+For example it would encompass the fact of planning the aftermath of an attack or even the procedure to combat an ongoing attack.
+
+The elements constructing defense in depth are the following:
+- **Administrative controls**: organizational strategies for protection
+- **Physical controls**: physical security measures (e.g. access control, security guards,...)
+- **Technical controls**: the various layers mentionned before and are detailed below
+
+#### Layers
+- **Network**: outer protection of the network with things like the firewall and breach detection systems which scan the network
+- **Anti-malware**: malicious software detection that is used after the firewall has been breached
+- **Behavior analysis**: analysing behavioral patterns to tell if the user or process is behaving oddly
+- **Data integrity**: tools to deal with data corruption
