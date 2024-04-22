@@ -102,3 +102,23 @@ There are some ways of finding out something is going on though:
 - Downloads of large amounts of information
 - Copying data to personal devices
 - Creation of accounts with different authorizations
+
+### Threat actors
+There are various different types of actors and they have their own goals and or motivations.
+
+The majority of the actors are motivated by monetary gain.
+
+Other more specific threat actors include:
+- Cyber terrorists: their goal is usually to harm a country's infrastructure
+- Advanced persistent threat actors: mostly working with or for their government
+- Hacktivists: generally don't do it for money but for more political reasons
+- Insiders: internal actors who can do direct damage without having to breach the system
+- Script kiddies: non professional actors who do not have the necessary knowledge/skills to carry out a full scale attack
+
+### Counter measures
+There are multiple proactive steps that companies can take to protect themselves from different data breaches.
+Here are a few of them:
+- Educate employees on the threats (e.g. phishing training)
+- MFA (Multi Factor Authentication)
+- Network monitoring
+- Intrusion detection/prevention: automated tools that contain potential threats
