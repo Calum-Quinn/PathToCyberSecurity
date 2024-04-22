@@ -82,3 +82,23 @@ MitM attacks involve intercepting network traffic and potentially harmfully modi
 This is often achieved by pretending to be a normal part of the network for example a router in order to spy on conversations or modify requests.
 
 This particularly problematic with the increase in home office working as this new type of communication needs to be incrypted to insure nothing can intercept and modify the data.
+
+### Insider threats
+Insider threats, although not very common, can be highly problematic. These imply that an attack or data compromise was perpetrated from someone who already had access to the system.
+
+These threats are not always intentional as they can be due to user errors. They are also not always done by employees but instead by anyone who has legitimate access (e.g. third-party contractors).
+
+Various types of insider threats exist:
+- Employees duped by things like phishing
+- Employees not following company security guidelines
+- Insider who purposely uses their access to rechieve and sell private data
+- Unhappy employee who's goal is to disrupt the company integrity
+- Contractor who misuses your services and accidently compromises the security of your data
+
+Detecting these types of attack is complicated as the attacker does not need to breach the system's security as they already have access to sensitive data.
+There are some ways of finding out something is going on though:
+- Odd login hours
+- Access to non job related data
+- Downloads of large amounts of information
+- Copying data to personal devices
+- Creation of accounts with different authorizations
