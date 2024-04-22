@@ -42,3 +42,14 @@ There are also different types of phishing including:
 - Vishing: attacks through phone calls to obtain information
 
 ### Ransomware
+This threat is one of the most effective ones when it comes to paralizing the victim.
+It is extremely hard to deal with and most of the time the users that were the direct victims do not know how to handle the situation.
+
+The way it works is the attacker uses various mechanisms to block the user's access to it's files and software and then demands a financial compensation to restore the access.
+This obviously relies on social engineering tricks especially to do with the user's distress.
+
+What makes this a hard problem to deal with is that the attacker can never be trusted. Even if the victim was to pay what was demanded there is no garantee that they will retrieve access to there files.
+There are pretty much only three options when it comes to dealing with this type of attack:
+- Pay the ransom and hope to get the access back
+- Somehow remove the malware
+- Wipe all the data to avoid the attacker getting a hold of it, then try and restore from backups
